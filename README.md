@@ -1,4 +1,7 @@
 # asimmons
+
+![Profile Image](profile.png)
+
 Repository for my work in Computational Microeconomics
 
 Hello! I'm a junior at Duke University, currently studying at Duke Kunshan University (DKU). My academic journey has ignited a deep-seated fascination with technology, particularly in the realms of blockchain and cybersecurity. These fields, both dynamic and critical in the digital age, captivate me with their complexity and the promise they hold for shaping the future of our digital world.
