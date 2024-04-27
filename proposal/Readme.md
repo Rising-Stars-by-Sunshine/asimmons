@@ -28,4 +28,5 @@ Pilot Program: Implement the mechanism with a select group of companies to refin
 Evaluation and Scaling: Analyze the effectiveness of the pilot, make necessary adjustments, and gradually expand to include more participants across various sectors.
 Continuous Improvement: Regularly update the mechanism based on feedback and evolving cybersecurity landscapes to ensure it remains effective and relevant.
 
-![Cybersecurity Cooperation Poster](/path/to/poster.png)
+![Cybersecurity Cooperation Poster](/proposal/poster.png)
+
