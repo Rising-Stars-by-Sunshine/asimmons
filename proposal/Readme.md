@@ -1,5 +1,8 @@
 Research Description: Enhancing Cybersecurity Collaboration through Game Theoretical Models and Blockchain Technology
 
+View Overleaf Paper:
+https://www.overleaf.com/read/fbwysnmxhndh#532fe8
+
 [Summarize the Background/Motivation]
 
 Gaps in Existing Literature: Current literature falls short in addressing the interplay between human and AI agents within the digital economy's complex system, particularly how economic incentives and privacy concerns influence data sharing in cybersecurity. My research is inspired by this gap, recognizing the necessity to understand and facilitate cooperation in an ecosystem where trust is pivotal yet precarious.
