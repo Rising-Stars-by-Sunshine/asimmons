@@ -6,7 +6,7 @@ Pick one of your favorite Nobel Prize winners ([Nobel Prize](https://www.nobelpr
 
 I aim to be a trailblazer in conducting original and inventive research that stretches the boundaries of knowledge, focusing on economic and computational strategies to improve financial wisdom among people. My favorite Nobel Prize recipient, Richard Thaler, has deeply influenced my thoughts on personal habit formation and societal economic impacts through his research on nudging. Similarly, Turing Award winner Geoffery Hinton's pioneering work in artificial intelligence and neural networks demonstrates the profound capabilities and ethical considerations necessary in technological advancements. Inspired by these leaders, I am dedicated to merging economics, social theory, and computer science to foster a society where technology and economic strategies empower rather than inhibit, promoting global positive development.
 
-![Geoffery Hinton](CSEcon/hinton.png)
+![Geoffery Hinton](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/asimmons/main/CSEcon/hinton.png)
 *Figure 1. Geoffery Hinton. Source: UToronto Website
 
 ![Richard Thaler](https://github.com/Rising-Stars-by-Sunshine/asimmons/CSEcon/thaler.png)
