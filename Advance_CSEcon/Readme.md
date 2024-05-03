@@ -14,7 +14,8 @@ A solution that outpaces oTree would ideally excel in compatibility across opera
 
 These enhancements are not merely technical fixes; they represent opportunities to expand new horizons for experimental economics, deepening our understanding of complex economic behaviors and systems. Addressing the current limitations with oTree, particularly around software compatibility and ease of use, could foster a more streamlined and inclusive research process. This development is crucial not only for the academic community but also has broader implications for policy-making and economic strategies, potentially leading to more enlightened and effective decisions.
 
-**Personal Experience Example**: In deploying the trust game using oTree, I faced [describe specific challenges]. [Attach a screenshot or describe it if not possible.]
+![Using Otree](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/asimmons/main/Advance_CSEcon/otree.png)
+*Figure 1: Using Otree. A personal screenshot of the student.*
 
 ## QUESTION 2
 ### Delve into the limitations of current multi-agent reinforcement learning (MARL) frameworks, focusing on environment constraints and agent algorithm customizations. Choose a classic game (e.g., Prisoner's Dilemma, Battle of the Sexes, or the Trust Game) to illustrate these limitations. Describe the development process of a MARL agent for your selected game, detailing the definition of states, actions, and rewards grounded in fundamental behavioral assumptions.
@@ -28,6 +29,9 @@ For instance, in the Trust Game, the delicate balance of cooperation and trust m
 **Potential Improvements**:
 - **Pre-trained Models**: Introducing pre-trained models that start with a baseline understanding of strategic dos and don'ts could reduce the number of necessary trial runs.
 - **Advanced Learning Techniques**: Integrating machine learning techniques that better mimic human thought processes could enhance the realism and relevance of MARL simulations, potentially revolutionizing how we simulate complex strategic interactions.
+
+![Using Petting Zoo](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/asimmons/main/Advance_CSEcon/pettingzoo.png)
+*Figure 2: Using Petting Zoo. A personal screenshot of the student.*
 
 ## QUESTION 3
 ### Critically engage with existing research in the field of federated learning, using the specific paper presented by the guest speaker as a primary example. Students will assess the paper's research questions, methodologies, and application scenarios and propose new research ideas addressing the identified limitations or gaps.
@@ -46,3 +50,5 @@ Building upon the insights provided by Professor Bing Luo's paper on "Cost-Effec
 
 These approaches not only aim to optimize federated learning networks but also enrich the research by expanding beyond traditional computer science and economics frameworks, potentially paving the way for more adaptive, secure, and inclusive federated learning ecosystems.
 
+![Idea Maps](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/asimmons/main/Advance_CSEcon/flowcharts.png)
+*Figure 3: Idea Maps. A personal screenshot of the student.*
