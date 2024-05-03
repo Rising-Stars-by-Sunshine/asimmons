@@ -9,7 +9,7 @@ I aim to be a trailblazer in conducting original and inventive research that str
 ![Geoffery Hinton](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/asimmons/main/CSEcon/hinton.png)
 *Figure 1. Geoffery Hinton. Source: UToronto Website
 
-![Richard Thaler](https://github.com/Rising-Stars-by-Sunshine/asimmons/CSEcon/thaler.png)
+![Richard Thaler](![Geoffery Hinton](https://raw.githubusercontent.com/Rising-Stars-by-Sunshine/asimmons/main/CSEcon/thaler.png)
 *Figure 2. Richard Thaler. Source: UChicago Website
 
 ## QUESTION 2
